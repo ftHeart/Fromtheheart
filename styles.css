@@ -46,16 +46,7 @@ h1.love {text-align:center;
     font-size:100px;
     font-family: "Lucida Handwriting";
     text-shadow: 0 0 10px #fff, 0 0 10px #fff, 0 0 10px #fff, 0 0 20px #fff, 0 0 25px #e60073, 0 0 30px #e60073, 0 0 350px #e60073;
-    position: relative;
-  animation: mymove 5s infinite;
-  animation-timing-function: linear;
 }
-
-@keyframes mymove {
-  from {left: 0px;}
-  to {left: 200px;}
-}
-
 
 h2 {font-size:55px;
     color:#8A2555;
@@ -65,7 +56,7 @@ h2 {font-size:55px;
 
 h3 {font-size:25px;
     color:#8A2555;
-    font-family: "Times New Roman", Times, serif;
+    font-family: Garamond;
     line-height: 1.6;
     background-color: #FEFDF9;
 }
