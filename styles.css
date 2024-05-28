@@ -70,6 +70,13 @@ h3 {font-size:25px;
     background-color: #FEFDF9;
 }
 
+h3.cek {font-size:30px;
+    color:#8A2555;
+    font-family: "Times New Roman", Times, serif;
+    line-height: 1.6;
+    background-color: #FEFDF9;
+}
+
 p1 {font-size:25px;
     font-variant: small-caps;
     font-weight:bold;
