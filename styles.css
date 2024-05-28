@@ -54,6 +54,10 @@ h2 {font-size:55px;
     line-height: 0%;
 }
 
+h3.big {
+     line-height: 0.7;
+}
+
 h3 {font-size:25px;
     color:#8A2555;
     font-family: "Times New Roman", Times, serif;
